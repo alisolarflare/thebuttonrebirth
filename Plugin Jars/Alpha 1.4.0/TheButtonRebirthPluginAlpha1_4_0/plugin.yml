@@ -1,0 +1,10 @@
+main: alisolarflare.thebuttonrebirth.ButtonRebirthPlugin
+version: Alpha 1.4.0
+name: TheButtonRebirthPluginAlpha1_4.0
+devnotes: Changed Bossbars to be cyclical unless time is at a critical point.
+
+commands:
+  createShrine:
+    description: Server command that creates a shrine at world in config file.
+  buttonHealth:
+    description: Displays Button Health to User.

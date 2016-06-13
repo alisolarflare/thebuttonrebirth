@@ -1,0 +1,28 @@
+main: alisolarflare.thebuttonrebirth.ButtonRebirthPlugin
+version: Alpha 1.3.1
+name: TheButtonRebirthPluginAlpha1_3_1
+devnotes: Added the hide show bars and made diamond insert permanent
+
+commands:
+  createShrine:
+    description: Server command that creates a shrine at world in config file.
+  buttonHealth:
+    description: Displays Button Health to User.
+  compactBars:
+    description: Compacts all the bars into a single bar.
+  hideBars:
+    description: Removes all boss bars from the screen.
+  hideHealthBar:
+    description: Hides the Button Health Bar from the screen.
+  hideDiamondBar:
+    description: Hides the Diamond Bar from the screen.
+  hideTimeBar:
+    description: Hides the Time Bar from the screen.
+  showBars:
+    description: Shows all boss bars to the screen.
+  showHealthBar:
+    description: Displays the Button Health to the screen
+  showDiamondBar:
+    description: Displays the Button Diamond Required bar to the screen
+  showTimeBar:
+    description: Displays the Button Time Left to the screen

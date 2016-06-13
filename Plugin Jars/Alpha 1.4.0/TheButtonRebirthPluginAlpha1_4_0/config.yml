@@ -1,0 +1,10 @@
+buttonHealth: 55
+minimumDiamondBlocks: 4
+lastCheckChestTime: "2016-11-04T23:59:59"
+
+chestX: 0
+chestY: 81
+chestZ: 0
+shrineRadius: 10
+world: newworld
+diamondsInserted: 2

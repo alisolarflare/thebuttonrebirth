@@ -1,0 +1,8 @@
+main: alisolarflare.thebuttonrebirth.ButtonRebirthPlugin
+version: Alpha 1.1.0
+name: TheButtonRebirthPluginAlpha1_1_0
+devnotes: Added functionality to the Button with health diamond checking and Midnight Listeners
+
+commands:
+  buttonHealth:
+    description: Displays Button Health to User.
