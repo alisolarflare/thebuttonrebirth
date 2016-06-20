@@ -1,0 +1,8 @@
+main: alisolarflare.thebuttonrebirth.ButtonRebirthPlugin
+version: Alpha 2.0.0
+name: TheButtonRebirth
+devnotes: Instant gratification update, Made diamond refresh instant
+
+commands:
+  createShrine:
+    description: Server command that creates a shrine at world in config file.
