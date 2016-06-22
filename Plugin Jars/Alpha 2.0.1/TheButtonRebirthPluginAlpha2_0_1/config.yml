@@ -1,0 +1,14 @@
+buttonHealth: 47
+minimumDiamondBlocks: 1
+lastCheckChestTime: "2016-06-20T23:59:59"
+
+chestX: 0
+chestY: 81
+chestZ: 0
+shrineRadius: 10
+world: newworld
+diamondsInserted: 0
+
+# How long the bar lasts, in minutes
+barDuration: 720
+lastPlayer: "Null Player"

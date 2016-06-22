@@ -1,0 +1,8 @@
+main: alisolarflare.thebuttonrebirth.ButtonRebirthPlugin
+version: Alpha 2.0.1
+name: TheButtonRebirth
+devnotes: Reduced sound of diamond insert
+
+commands:
+  createShrine:
+    description: Server command that creates a shrine at world in config file.
